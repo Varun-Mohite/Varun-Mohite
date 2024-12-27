@@ -2,7 +2,7 @@ _**Varun Mohite**_
 
 👋 Hi, I'm Varun Mohite, a dedicated professional with a strong background in Office 365 administration (E-mail, collaboration and IM),
 currently working full-time in the life sciences and healthcare sector. With over ~13.5 years of experience, I specialize in the administration,
-and automating Office 365 environments, but I'm also deeply passionate about transitioning into the field of AI and Machine Learning.
+and automating Office 365 environments, but I'm also enthusiastic about transitioning into the field of AI and Machine Learning.
 
 **🌟 Interests and Goals:**
 
