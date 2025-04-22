@@ -7,7 +7,7 @@ and automating Office 365 environments, but I'm also enthusiastic about transiti
 **🌟 Interests and Goals:**
 
 AI & ML Enthusiast: I'm recently completed an Executive post-graduate program in AI & Machine Learning from IIIT-Bangalore, with the goal of 
-becoming a Data Engineer, ETL Developer, Cloud Data Engineer or MLOps Engineer.
+becoming a Data Engineer, ETL Developer or Cloud Data Engineer.
 Automation & Scripting: I have experience in creating PowerShell scripts for automating tasks within the Office 365 ecosystem.
 Software Development: Although most of my work involves Powershell scripting and working with various Powershell modules for O365 workload
 management, I have a great interest in learning Python as a part of my course work and case studies/assignments.
